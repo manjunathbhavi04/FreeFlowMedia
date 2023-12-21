@@ -1,4 +1,3 @@
-//Stack is MUI components you can hover over it to know more about it
 import { Stack } from "@mui/material";
 import { Link } from "react-router-dom";
 
